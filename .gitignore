@@ -1,5 +1,5 @@
-ignore ALL .text files
-*.log
+ignore ALL .txt files
+*.txt
 
 
 file1
