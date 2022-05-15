@@ -1,6 +1,5 @@
 ignore ALL .txt .py files
 *.txt
-*.py
 
 file1
 file2
