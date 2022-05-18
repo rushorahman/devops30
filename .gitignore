@@ -1,5 +1,5 @@
 ignore ALL .txt .py files
-*.txt
+*.class
 
 file1
 file2
